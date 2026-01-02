@@ -1,4 +1,4 @@
-// main.c
+// main.c 
 #include <stdio.h>
 #include "nmgm_prbg.h"
 
