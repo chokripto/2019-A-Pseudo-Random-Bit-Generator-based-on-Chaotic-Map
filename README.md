@@ -10,5 +10,5 @@ notice that during the execution of the algorithm, the
 password changes automatically after a number of itera-
 tions
 
-# Reference
-International Journal of Network Security, Vol.21, No.3, PP.402-408, May 2019 (doi: 10.6633/ijns.201905 21(3).06) 402
+## 📚 Reference
+- Nouar, C., & Guennoun, Z. E. A. (2019). *A Pseudo Random Bit Generator Based on a Modified Chaotic Map*. International Journal of Network Security Vol.21, No.3, PP.402-408, May 2019 DOI: [10.6633/ijns.201905 21(3).06]
